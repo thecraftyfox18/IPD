@@ -6,5 +6,4 @@ The code uses the axelrod library.
 To use the code you have to download also the train parameters; the train parameters were made for the selected reactive (0) and non reactive (1) strategies and the numbers 0.1 0.01 and 0.001 refers to the noise that affects the games.
 
 Authors: 
-Laura Borgongino
-Sara Rufrano Aliberti
+Laura Borgongino and Sara Rufrano Aliberti
